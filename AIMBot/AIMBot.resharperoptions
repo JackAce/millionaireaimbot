@@ -1,0 +1,118 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Web">
+      <Item value="HttpUtility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:int">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:double">
+      <Item value="ToString" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string">
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System">
+      <Item value="Web" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="Xml" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console.Out">
+      <Item value="Flush" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="1" />
+      <Item value="Millisecond" priority="0" />
+      <Item value="ToLongTimeString" priority="0" />
+      <Item value="Subtract" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="Substring" priority="0" />
+      <Item value="Add" priority="0" />
+      <Item value="Length" priority="2" />
+      <Item value="Value" priority="0" />
+      <Item value="Message" priority="2" />
+      <Item value="Trim" priority="1" />
+      <Item value="Split" priority="0" />
+      <Item value="GetAttribute" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Remove" priority="0" />
+      <Item value="Append" priority="0" />
+      <Item value="MoveToElement" priority="1" />
+      <Item value="MoveToFirstAttribute" priority="0" />
+      <Item value="Name" priority="1" />
+      <Item value="ReadAttributeValue" priority="0" />
+      <Item value="Replace" priority="1" />
+      <Item value="ToString" priority="4" />
+      <Item value="AttributeCount" priority="1" />
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataView">
+      <Item value="RowFilter" priority="1" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="4" />
+      <Item value="Out" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpUtility">
+      <Item value="UrlEncode" priority="0" />
+      <Item value="HtmlEncode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml">
+      <Item value="XmlReader" priority="1" />
+      <Item value="XmlTextReader" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string[]">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="ReadXml" priority="0" />
+      <Item value="WriteXml" priority="0" />
+      <Item value="Copy" priority="0" />
+      <Item value="Tables" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AIMLib.Question">
+      <Item value="DefaultSearchService" priority="0" />
+      <Item value="SearchService" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AIMLib.Question.SearchService">
+      <Item value="Google" priority="2" />
+      <Item value="Yahoo" priority="4" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\IMTransport.cs" offset="1543" line="32" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBot\frmMain.cs" offset="0" line="11" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBotTests\GoogleTests.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBotTests\YahooTests.cs" offset="0" line="78" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBotTests\TestGeneral.cs" offset="0" line="109" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\YahooHelper.cs" offset="0" line="0" column="25" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBotTests\AIMBotQuestions.xml" offset="0" line="2892" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\Question.cs" offset="0" line="984" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBot\App.config" offset="2081" line="11" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBot\AI.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\MailTransport.cs" offset="0" line="1016" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\GoogleHelper.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\IMDbHelper.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBotTests\IMDbTests.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMBotTests\MailTests.cs" offset="0" line="-1" column="-1" />
+      <TrackedFile location="D:\Data\Visual Studio Projects\AIMLib\AssemblyInfo.cs" offset="26" line="-1" column="-1" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>
