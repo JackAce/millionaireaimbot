@@ -1,0 +1,3130 @@
+<questionList>
+	<question 
+		desc="ONESHOT"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help. 
+
+Tatanka-Iyotanka, the famous head chief of the Lakota nation, is better known by what name?
+
+A: Geronimo
+B: Sitting Bull
+C: Crazy Horse
+D: Chief Joseph
+
+ Answer by typing the letter ONLY.  Please answer right away.
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="ONESHOT_INTHESONG"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the folk song &quot;On Top of Old Smoky,&quot; the singer laments the loss of his what?
+ 
+ A: Way home
+ B: Fair steed
+ C: Bag of gold
+ D: True lover
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                  "
+		answer="d"
+		/>
+	<question 
+		desc="ONESHOT_CONTAINSLINK"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What world leader's office has the Web site address &quot;&lt;a href=&quot;http://www.elysee.fr&quot;&gt;www.elysee.fr&lt;/a&gt; &quot;?
+ 
+ A: Vladimir Putin
+ B: Vicente Fox
+ C: Jacques Chirac
+ D: Ariel Sharon
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+  "
+		answer="c"
+		/>
+	<question 
+		desc="ONESHOT_REVERSESEARCH"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Lactose, a type of sugar that many people cannot digest, is naturally found in all but which of these milks?
+ 
+ A: Goat milk
+ B: Sheep milk
+ C: Soy milk
+ D: Cow milk
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+	<question 
+		desc="ONESHOT_5050"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What starring TV role did Bing Crosby turn down, reportedly because it would interfere with his golf?
+ 
+ B: Columbo
+ D: Cannon
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+              "
+		answer="b"
+		/>
+  	<question 
+		desc="ONESHOT_CONSECUTIVECAPITALS"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What was the outcome of the historic 1804 duel between Aaron Burr and Alexander Hamilton?
+ 
+ A: Burr was killed
+ B: Hamilton was killed
+ C: Neither man was killed
+ D: Both men were killed
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="b"
+		/>
+	<question 
+		desc="ONESHOT_REVERSESEARCH5050"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Which of the following is not the name of an island nation located in the Caribbean Sea?  
+  
+  B: Suriname and Guyana  
+  C: St. Kitts and Nevis  
+  
+  Answer by typing the letter ONLY.  Please answer right away.  
+   "
+		answer="b"
+		/>
+	<question 
+		desc="ONESHOT_HASHALFDASH"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What luxury brand's long-running slogan claims &quot;There is no substitute&quot;?
+ 
+ A: Porsche
+ B: Rolex
+ C: Gucci
+ D: Godiva
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                        "
+		answer="a"
+		/>
+	<question 
+		desc="ONESHOT_ROWLF"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help. 
+
+ One of the first Muppets created by Jim Henson, the ivory-tickling Rowlf is what kind of animal? 
+ A: Dog 
+ B: Bear 
+ C: Goat 
+ D: Lion 
+
+ Answer by typing the letter ONLY.  Please answer right away.
+ "
+		answer="a"
+		/>
+
+<!--
+	<question 
+		desc="hawaii time zone"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ During standard time, what is the time difference between California and Hawaii?
+ 
+ A: One hour
+ B: Two hours
+ C: Three hours
+ D: Four hours
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="b"
+		/>
+	<question 
+		desc="whirlpool aero car"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Offering a ten-minute bird's-eye view of the area, the Whirlpool Aero Car is a popular attraction at what tourist spot?
+ 
+ A: Yosemite
+ B: Grand Canyon
+ C: Niagara Falls
+ D: Mount Rushmore
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="c"
+		/>
+	<question 
+		desc="bing crosby golf"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What starring TV role did Bing Crosby turn down, reportedly because it would interfere with his golf?
+ 
+ B: Columbo
+ D: Cannon
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+              "
+		answer="b"
+		/>
+	<question 
+		desc="power outage"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, a utility worker's goof triggered blackouts that left roughly half of what U.S. city in the dark for a few hours?
+ 
+ A: Los Angeles
+ B: Boston
+ C: Chicago
+ D: Detroit
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="a"
+		/>
+	<question 
+		desc="flat bread"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these international breads is not usually flat in shape?
+ 
+ A: Brioche
+ B: Injera
+ C: Chapati
+ D: Matzoh
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                "
+		answer="a"
+		/>
+	<question 
+		desc="bitterballen"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Bitterballen, deep-fried meatballs served with mustard, are a tasty traditional treat of what European nation?
+ 
+ A: Sweden
+ B: Switzerland
+ C: Poland
+ D: The Netherlands
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+           "
+		answer="d"
+		/>
+  	<question 
+		desc="shit reverse..."
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Lactose, a type of sugar that many people cannot digest, is naturally found in all but which of these milks?
+ 
+ A: Goat milk
+ B: Sheep milk
+ C: Soy milk
+ D: Cow milk
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+          "
+		answer="c"
+		/>
+  	<question 
+		desc="lard ass"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ A common cooking ingredient, lard is made from what part of a pig?
+ 
+ A: Fat
+ B: Muscle
+ C: Tendon
+ D: Hide
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+         "
+		answer="a"
+		/>
+  	<question 
+		desc="meyer rudolph"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What is the subject of the 2005 U.S. postage stamp series that features works by Frank Gehry and Richard Meier?
+ 
+ A: Fashion design
+ B: Painting
+ C: Architecture
+ D: Photography
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+        "
+		answer="c"
+		/>
+  	<question 
+		desc="capri pants"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Capri pants are named for a picturesque resort island located off the coast of what country?
+ 
+ A: Spain
+ B: Turkey
+ C: Italy
+ D: Mexico
+ 
+ Answer by typing the letter ONLY.  Please answer right away.
+       "
+		answer="c"
+		/>
+  	<question 
+		desc="Jackals"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Found in Asia and Africa, jackals belong to the same family as what domesticated animals?
+ 
+ A: Dogs
+ B: Cats
+ C: Horses
+ D: Sheep
+ 
+ Answer by typing the letter ONLY.  Please answer right away. 
+      "
+		answer="a"
+		/>
+  	<question 
+		desc="ONESHOT_CAPITALSIGNORECOMMA"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ After reading the 2004 memoirs of his mom, Gloria Vanderbilt, what TV newsman lamented that her sex life was more interesting than his?
+ 
+ A: Tucker Carlson
+ B: Anderson Cooper
+ C: Bill Hemmer
+ D: Sean Hannity
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="ONESHOT_CAPITALSCOMMA"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these countries borders a total of five seas: the Adriatic, Ionian, Ligurian, Tyrrhenian and Mediterranean?
+ 
+ B: Italy
+ D: Turkey
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="b"
+		/>
+	<question 
+		desc="double bass"
+		text="
+Hi!  A contestant is in the hot seat and needs your help. 
+
+ The double bass is a low-pitched member of what musical instrument family? 
+
+ A: String 
+ B: Percussion 
+ C: Brass 
+ D: Woodwind   
+
+ Answer by typing the letter ONLY.  Please answer right away.  
+ "
+		answer="a"
+		/>
+	<question 
+		desc="wheels on the bus"
+		text="
+Hi!  A contestant is in the hot seat and needs your help. 
+
+ According to a well-known children's song, which of the following &quot;go round and  round&quot;?  
+
+ A: The wheels on the bus
+ B: The balls on the floor 
+ C: The rocks in the stream 
+ D: The dogs at the track 
+
+ Answer by typing the letter ONLY.  Please answer right away.    
+ "
+		answer="a"
+		/>
+	<question 
+		desc="dwarf dog"
+		text="
+Hi!  A contestant is in the hot seat and needs your help.  
+
+What dog breed's name means &quot;dwarf dog&quot; in Welsh? 
+ A: Weimaraner 
+ B: Mastiff 
+ C: Beagle 
+ D: Corgi 
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+ "
+		answer="d"
+		/>
+	<question 
+		desc="Gilligan's Professor"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help. 
+ On the TV series &quot;Gilligan's Island,&quot; the Professor is a teacher of what subject?   
+
+ A: Science 
+ B: English 
+ C: Government 
+ D: History  
+
+Answer by typing the letter ONLY.  Please answer right away.    
+
+ "
+		answer="a"
+		/>
+	<question 
+		desc="Muppet Rowlf"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help. 
+
+ One of the first Muppets created by Jim Henson, the ivory-tickling Rowlf is what kind of animal? 
+ A: Dog 
+ B: Bear 
+ C: Goat 
+ D: Lion 
+
+ Answer by typing the letter ONLY.  Please answer right away.
+ "
+		answer="a"
+		/>
+	<question 
+		desc="Harry Potter"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help. 
+
+ Which of these phrases does not appear in the title of one of the best-selling Harry Potter books? 
+
+ A: Goblet of Fire 
+ B: Order of the Phoenix 
+ C: Chamber of Secrets 
+ D: Flight of the Dragon   
+
+ Answer by typing the letter ONLY.  Please answer right away.    
+ 
+ "
+		answer="d"
+		/>
+
+	<question 
+		desc="Antonyms"
+		text="
+Hi!  A contestant is in the hot seat and needs your help. 
+
+ Two words that have directly opposite meanings are called what? 
+
+ A: Synonyms 
+ B: Antonyms 
+ C: Homonyms 
+ D: Homophones 
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+	<question 
+		desc="Sea Gull"
+		text="
+Hi!  A contestant is in the hot seat and needs your help.  
+
+What landlocked state's official bird is the sea gull?  
+
+A: Arizona  
+B: Utah  
+C: Kansas  
+D: South Dakota  
+
+Answer by typing the letter ONLY.  Please answer right away.
+ "
+		answer="a"
+		/>
+	<question 
+		desc="Butter"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  In the U.S., a standard stick of butter is equal to how many cups?  
+  A: 1/4  
+  B: 1/2  
+  C: 3/4  
+  D: 1  
+  
+  Answer by typing the letter ONLY.  Please answer right away. 
+ "
+		answer="b"
+		/>
+	<question 
+		desc="Crossword"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  Most papers, including the New York and L.A. Times, run their most difficult crossword puzzle on what day of the week?  
+  
+  A: Monday  
+  B: Wednesday  
+  C: Thursday  
+  D: Saturday  
+  
+  Answer by typing the letter ONLY.  Please answer right away. 
+ "
+		answer="d"
+		/>
+	<question 
+		desc="Space Wedding"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  In 2003, what U.S. state allowed a couple to marry by video link because the groom, an astronaut, was in space?  
+  
+  A: Florida  
+  B: Hawaii  
+  C: Texas  
+  D: Nevada  
+  
+  Answer by typing the letter ONLY.  Please answer right away.  
+ "
+		answer="c"
+		/>
+	<question 
+		desc="Caribbean"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Which of the following is not the name of an island nation located in the Caribbean Sea?  
+  
+  A: Trinidad and Tobago  
+  B: Suriname and Guyana  
+  C: St. Kitts and Nevis  
+  D: Antigua and Barbuda  
+  
+  Answer by typing the letter ONLY.  Please answer right away.  
+   "
+		answer="b"
+		/>
+	<question 
+		desc="Dust Bunnies"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.  
+ 
+ What scientific phenomenon causes bits of dust in the house to band together and form &quot;dust bunnies&quot;?  
+ 
+ A: Magnetism  
+ B: Centrifugal force  
+ C: Inertia  
+ D: Static electricity  
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="d"
+		/>
+	<question 
+		desc="40 Year Old Virgin"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  In the 2005 film &quot;The 40-Year-Old Virgin,&quot; a painful chest hair removal procedure causes Andy to yell out what celebrity's name?  
+  
+  A: Ashlee Simpson  
+  B: Kylie Minogue  
+  C: Mandy Moore  
+  D: Kelly Clarkson  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="d"
+		/>
+  	<question 
+		desc="Pasta E Fagioli"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  A popular Italian menu item, pasta e fagioli is a type of what?  
+  
+  A: Sandwich  
+  B: Soup  
+  C: Salad  
+  D: Casserole  
+  
+  Answer by typing the letter ONLY.  Please answer right away.  
+     "
+		answer="c"
+		/>
+  	<question 
+		desc="Aluminum Salt"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Aluminum salt is the active ingredient in which of these common drugstore products?  
+  A: Teeth whiteners  
+  B: Antiperspirants  
+  C: Shaving cream  
+  D: Contact solution  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="b"
+		/>
+  	<question 
+		desc="Vines"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Which of these fruits grows on vines?  
+  
+  A: Lemon  
+  B: Banana  
+  C: Pear  
+  D: Cantaloupe  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="c"
+		/>
+  	<question 
+		desc="Sculling and Sweeping"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Sculling and sweeping are the two basic forms of what athletic activity?  
+  
+  A: Horseback riding  
+  B: Mountain climbing  
+  C: Archery  
+  D: Rowing  
+  
+  Answer by typing the letter ONLY.  Please answer right away. 
+     "
+		answer="d"
+		/>
+  	<question 
+		desc="Witching Hour"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Once believed to be the time when witches appear, what time of day is known as the &quot;witching hour&quot;?  
+  
+  A: Dusk  
+  B: Dawn  
+  C: Noon  
+  D: Midnight  
+  
+  Answer by typing the letter ONLY.  Please answer right away. 
+     "
+		answer="d"
+		/>
+  	<question 
+		desc="Carrots and Eyes"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Carrots are often said to be good for the eyes because they enable the body to create what nutrient?  
+  
+  A: Riboflavin  
+  B: Vitamin A  
+  C: Iron  
+  D: Vitamin D  
+  
+  Answer by typing the letter ONLY.  Please answer right away.    
+     "
+		answer="b"
+		/>
+  	<question 
+		desc="EST State"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Which of these U.S. states is located entirely in the Eastern Time Zone?  
+  
+  A: Ohio  
+  B: Kentucky  
+  C: Tennessee  
+  D: Florida  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="Men have Nipples"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.  
+ 
+ The 2005 bestseller &quot;Why Do Men Have Nipples?&quot; is subtitled &quot;Hundreds of Questions You'd Only Ask a Doctor&quot; when?  
+ 
+ A: While Heavily Sedated  
+ B: After Your Third Martini  
+ C: While Your Pants Are On  
+ D: Over the Internet  
+ 
+ Answer by typing the letter ONLY.  Please answer right away.  
+     "
+		answer="b"
+		/>
+  	<question 
+		desc="MRI"
+		text="
+   Hi!  A contestant is in the hot seat and needs your help.  
+   
+   What medical procedure commonly requires patients to lie inside a giant tube equipped with a powerful magnet?  
+   
+   A: Ultrasound  
+   B: MRI  
+   C: Electrocardiogram  
+   D: CAT scan  
+   
+   Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="b"
+		/>
+  	<question 
+		desc="Pavarotti"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Opera singer Luciano Pavarotti was born in 1935 in Modena, a small city in what country?  
+  
+  A: Italy  
+  B: France  
+  C: Germany  
+  D: Greece  
+  
+  Answer by typing the letter ONLY.  Please answer right away.    
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="Jodhpurs"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Jodhpurs, a style of long pants worn by horseback riders, take their name from a city in what country?  
+  
+  A: India  
+  B: Turkey  
+  C: Morocco  
+  D: Saudi Arabia  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="Triangle Root"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  In math, the third root of a number is more commonly known by what name?  
+  
+  A: Cube root  
+  B: Triangle root  
+  C: Cross root  
+  D: Circle root  
+  
+  Answer by typing the letter ONLY.  Please answer right away.    
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="Katrina"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Worn by 2005 Emmy presenters in support of Hurricane Katrina victims, what is the state flower of both Louisiana and Mississippi?  
+  
+  A: Magnolia  
+  B: Gardenia  
+  C: Honeysuckle  
+  D: Wisteria  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="Tennis Match"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  At the end of a tennis match, the chair umpire commonly makes what announcement?  
+  
+  A: Match, game, set  
+  B: Game, match, set  
+  C: Set, game, match  
+  D: Game, set, match  
+  
+  Answer by typing the letter ONLY.  Please answer right away.  
+     "
+		answer="d"
+		/>
+  	<question 
+		desc="Mariah"
+		text="
+    Hi!  A contestant is in the hot seat and needs your help.  
+    
+    What old nickname did Mariah Carey incorporate into the title of her 2005 chart-topping album?  
+    
+    A: Mimi  
+    B: Mack  
+    C: Emcee  
+    D: Marcy  
+    
+    Answer by typing the letter ONLY.  Please answer right away.    
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="Terror Alert"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  In the U.S. Homeland Security Advisory System, what color signals the lowest threat of terror attacks?  
+  
+  A: Green  
+  B: Yellow  
+  C: White  
+  D: Purple  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="a"
+		/>
+	<question 
+		desc="Capon Cape Off"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Often found on restaurant menus, a capon is a type of what?  
+  A: Lamb  
+  B: Chicken  
+  C: Cow  
+  D: Pig  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="b"
+		/>
+  	<question 
+		desc="Roman Month"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  Before it was renamed to honor a statesman, the ancient Romans called what month Quintilis?  
+  
+  A: May  
+  B: June  
+  C: July  
+  D: April  
+  
+  Answer by typing the letter ONLY.  Please answer right away. 
+     "
+		answer="c"
+		/>
+  	<question 
+		desc="Goodyear"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  The logo for the Goodyear tire company features the winged foot of what Roman god?  
+  A: Mars  
+  B: Apollo  
+  C: Mercury  
+  D: Neptune  
+  
+  Answer by typing the letter ONLY.  Please answer right away.  
+     "
+		answer="c"
+		/>
+  	<question 
+		desc="Fall into the Gap"
+		text="
+  Hi!  A contestant is in the hot seat and needs your help.  
+  
+  What retailer, which started out in 1978 selling military-surplus clothing, is now a division of Gap Inc.?  
+  
+  A: Lands' End  
+  B: Abercrombie &amp; Fitch  
+  C: Eddie Bauer  
+  D: Banana Republic  
+  
+  Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="d"
+		/>
+  	<question 
+		desc="Burr and Hamilton"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What was the outcome of the historic 1804 duel between Aaron Burr and Alexander Hamilton?
+ 
+ A: Burr was killed
+ B: Hamilton was killed
+ C: Neither man was killed
+ D: Both men were killed
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="b"
+		/>
+  	<question 
+		desc="War of the Worlds"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the 2005 movie &quot;War of the Worlds,&quot; a dad and his two kids must flee as the aliens pulverize his hometown in what U.S. state?
+ 
+ A: New Jersey
+ B: California
+ C: Florida
+ D: Illinois
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="a"
+		/>
+  	<question 
+		desc="Five Seas Borders"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these countries borders a total of five seas: the Adriatic, Ionian, Ligurian, Tyrrhenian and Mediterranean?
+ 
+ B: Italy
+ D: Turkey
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="b"
+		/>
+		
+  	<question 
+		desc="Divers Watch"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Found on divers' watches, a depth meter determines underwater depth by measuring what?
+ 
+ A: Sound waves
+ B: Water temperature
+ C: Visible light
+ D: Water pressure
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="d"
+		/>
+  	<question 
+		desc="Veuve Clicquot"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Named for the French widow who first produced it, Veuve Clicquot is a popular but pricey brand of what?
+ 
+ A: Chocolate
+ B: Champagne
+ C: Cheese
+ D: Sparkling water
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="b"
+		/>
+  	<question 
+		desc="Kissing Fine"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, a couple was fined 1,000 rupees for indecency when they kissed at their wedding in what country? 
+ 
+ A: Poland
+ B: Turkey
+ C: India
+ D: Egypt
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+"
+		answer="c"
+		/>
+  	<question 
+		desc="Compass"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these is not a directional abbreviation that appears on a standard compass?
+ 
+ A: SSW
+ B: EES
+ C: WNW
+ D: ENE
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="SS Minnow"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Often appearing in the name of boats, the abbreviation &quot;S.S.&quot; stands for what?
+ 
+ A: Speed ship
+ B: Sovereign ship
+ C: Sailing ship
+ D: Steamship
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="d"
+		/>
+  	<question 
+		desc="Venus de Milo"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What does the word &quot;Milo&quot; refer to in the name of the famous &quot;Venus de Milo&quot; sculpture?
+ 
+ A: Model's family name
+ B: Sculptor's school
+ C: Place of discovery
+ D: Donor's family name
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="Jelly Belly"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ One of Jelly Belly's most popular jelly beans is flavored with the &quot;secret syrup&quot; of what drink?
+ 
+ A: Dr Pepper
+ B: Yoo-hoo
+ C: Mountain Dew
+ D: Pepsi-Cola
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="a"
+		/>
+  	<question 
+		desc="David McCullough"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In May 2005, David McCullough released a nonfiction bestseller recounting events occurring in what historic year?
+ 
+ A: 1492
+ B: 1776
+ C: 1865
+ D: 1945
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+  "
+		answer="b"
+		/>
+  	<question 
+		desc="Lipase"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Lipase is a digestive enzyme used by the body to break down what food component?
+ 
+ B: Fat
+ D: Fiber
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="Cimex"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Making a comeback in the U.S., the blood-sucking &quot;Cimex lectularius&quot; is an insect better known by what name?
+ 
+ A: Tick
+ B: Dust Mite
+ C: Chigger
+ D: Bedbug
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="d"
+		/>
+  	<question 
+		desc="Population"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ &quot;Population, when unchecked, increases in a geometrical ratio&quot; is from an influential 1798 essay by whom?
+ 
+ A: Adam Smith
+ B: Immanuel Kant
+ C: Thomas Malthus
+ D: John Stuart Mill
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="Health Insurance"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+What is the only U.S. state that requires its employers by law to offer health insurance to full-time workers?
+ 
+ A: Delaware
+ B: Utah
+ C: Hawaii
+ D: Maine
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="Fermat and Pascal"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+A series of five letters between Pierre de Fermat and Blaise Pascal is credited with establishing what branch of modern mathematics?
+ 
+ A: Trigonometry
+ B: Algebra
+ C: Number Theory
+ D: Probability
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="d"
+		/>
+
+
+  	<question 
+		desc="Summer Solstice"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+In celebration of the summer solstice, what U.S. city has hosted the annual Midnight Sun Marathon since 1973?
+ 
+ A: Seattle
+ B: Anchorage
+ C: Honolulu
+ D: Miami
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="Pants"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+A pair of men's pants measuring &quot;30 x 32&quot; has what two measurements?
+ 
+ A: 30&quot; waist, 32&quot; inseam
+ B: 30&quot; inseam, 32&quot; rise
+ C: 30&quot; rise, 32&quot; waist
+ D: 30&quot; waist, 32&quot; rise
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="a"
+		/>
+  	<question 
+		desc="Green Onion"
+		value=""
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these vegetables is commonly referred to as a &quot;spring onion&quot; or &quot;green onion&quot;?
+ 
+ A: Parsnip
+ B: Scallion
+ C: Endive
+ D: Watercress
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="Green Onion"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+The memorable line &quot;Uh oh, uh oh, uh oh, oh no no&quot; is repeated throughout what chart-topping dance hit of 2003?
+ 
+ A: Yeah!
+ B: Hey Ya!
+ C: Crazy in Love
+ D: In da Club
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="Humidity"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+Which of these weather-related terms refers to the amount of water vapor contained in the air?
+ 
+ A: Relative humidity
+ B: Surface temperature
+ C: Wind chill
+ D: Barometric pressure
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="a"
+		/>
+  	<question 
+		desc="Humidity"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+In the standard U.S. version of the game Monopoly, hotels are what color?
+ 
+ A: Red
+ B: Black
+ C: Yellow
+ D: Blue
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="a"
+		/>
+  	<question 
+		desc="us Weekly"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ A section in the Us Weekly titled &quot;They're Just Like Us&quot; specifically focuses on the everyday lives of whom?
+ 
+ A: Babies
+ B: Europeans
+ C: Celebrities
+ D: CEOs
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="Beetle"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+What African animal lends its name to a large variety of beetle known for its prominent horns that are used for sparring?
+ 
+ A: Lion
+ B: Hippo
+ C: Giraffe
+ D: Rhinoceros
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="d"
+		/>
+  	<question 
+		desc="Lacross Idiots"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, members of Northwestern's women's lacross team caused a stir by attending a White House ceremony wearing what?
+ 
+ A: Mini-skirts
+ B: Tube tops
+ C: Flip-flops
+ D: Nose rings
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="Mock Applie Pie"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ A recipe popular during WWII, &quot;mock apple pie&quot; substitutes what ingredient for apples?
+ 
+ A: Wonder Bread
+ B: Nilla Wafers
+ C: Cheerios
+ D: Ritz Crackers
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="d"
+		/>
+  	<question 
+		desc="Vanderbilt"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ After reading the 2004 memoirs of his mom, Gloria Vanderbilt, what TV newsman lamented that her sex life was more interesting than his?
+ 
+ A: Tucker Carlson
+ B: Anderson Cooper
+ C: Bill Hemmer
+ D: Sean Hannity
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+  	<question 
+		desc="Pamplona"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In Pamplona's Running of the Bulls festival, brave tourists run through the streets wearing what distinctive piece of clothing?
+ 
+ A: Yellow jackets
+ B: Green berets
+ C: Red scarves
+ D: Silver vests
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="c"
+		/>
+  	<question 
+		desc="iPood"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2004, Apple Computer introduced a special edition iPod autographed by what rock band?
+ 
+ A: Aerosmith
+ B: U2
+ C: Radiohead
+ D: Pearl Jam
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+
+  	<question 
+		desc="Preganacy stage"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What is the term for the stage of pregnancy during which a mother begins to feel her baby moving?
+ 
+ A: Quickening
+ B: Heightening
+ C: Awakening
+ D: Strengthening
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="a"
+		/>
+  	<question 
+		desc="Lapin"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Frequently dyed to make it seem more valuable, lapin is the fur of what animal?
+ 
+ A: Beaver
+ B: Raccoon
+ C: Fox
+ D: Rabbit
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="d"
+		/>
+  	<question 
+		desc="Neptune"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Methane in Neptune's atmosphere makes the planet appear what color when viewed through a telescope?
+ 
+ A: Orange
+ B: Blue
+ C: Red
+ D: Gold
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ "
+		answer="b"
+		/>
+
+  	<question 
+		desc="C in Physics"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In physics equations, what letter is typically used to represent the speed of light?
+ 
+ A: c
+ B: m
+ C: t
+ D: v
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ 
+ "
+		answer="a"
+		/>
+  	<question 
+		desc="Bill Berry Drummer Departure"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What band became a trio in 1997 with the departure of Bill Berry, who had played drums with the group for 17 years?
+ 
+ A: Van Halen
+ B: Bon Jovi
+ C: Genesis
+ D: R.E.M.
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+ 
+ "
+		answer="d"
+		/>
+  	<question 
+		desc="Run this Rack"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2004, what specialty magazine introduced a puzzle for its readers titled &quot;Run This Rack&quot;?
+ 
+ A: Bowling Digest
+ B: Golf Digest
+ C: Billiards Digest
+ D: Auto Racing Digest
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+  "
+		answer="c"
+		/>
+  	<question 
+		desc="Snake Killer by Rudyard Kipling"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In a classic story by Rudyard Kipling, what animal saves the day using its remarkable ability to kill snakes?
+ 
+ A: Lemur
+ B: Mongoose
+ C: Wombat
+ D: Jackal
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+   "
+		answer="b"
+		/>
+  	<question 
+		desc="Lindy Hops"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ The Lindy Hop is a dance from the 1920s that got its name from a 1927 headline that read &quot;Lindy Hops the&quot; what?
+ 
+ A: Atlantic
+ B: Grand Canyon
+ C: English Channel
+ D: North Pole
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+    "
+		answer="a"
+		/>
+  	<question 
+		desc="Bingo Count"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the American version of the game Bingo, the numbers traditionally range from 1 to what?
+ 
+ A: 55
+ B: 65
+ C: 75
+ D: 85
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="c"
+		/>
+
+
+  	<question 
+		desc="Blockbuster"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Now used to refer to successful movies, &quot;blockbuster&quot; was once WWII slang for a type of what?
+ 
+ A: Bomb
+ B: Soldier formation
+ C: Tank
+ D: Fighter plane
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+  "
+		answer="a"
+		/>
+  	<question 
+		desc="Silly Con Valley"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ As a center of the high-tech boom, what California valley is commonly known as &quot;Silicon Valley&quot;?
+ 
+ A: San Fernando Valley
+ B: Simi Valley
+ C: Santa Clara Valley
+ D: San Gabriel Valley
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+   "
+		answer="c"
+		/>
+  	<question 
+		desc="quinquagenarian"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ By definition, a quinquagenarian is a person who falls into what age range?
+ 
+ A: Thirties
+ B: Forties
+ C: Fifties
+ D: Sixties
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+    "
+		answer="c"
+		/>
+  	<question 
+		desc="plead tha fif"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What is the term for the formal hearing in which a criminal defendant may plead guilty or not guilty?
+ 
+ A: Arraignment
+ B: Voir dire
+ C: Deposition
+ D: Deliberation
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="a"
+		/>
+  	<question 
+		desc="big time newspaper comic"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Appearing in over 2,600 periodicals around the globe, what is the world's most widely syndicated comic strip?
+ 
+ A: Garfield
+ B: Cathy
+ C: Dennis the Menace
+ D: The Family Circus
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+      "
+		answer="a"
+		/>
+  	<question 
+		desc="pregnant pop diva"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, what pop star flaunted her first-time pregnancy in the video for &quot;Someday (I Will Understand)&quot;?
+ 
+ A: Jessica Simpson
+ B: Christina Aguilera
+ C: Britney Spears
+ D: Gwen Stefani
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+       "
+		answer="c"
+		/>
+  	<question 
+		desc="handy instrument"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these instruments is usually made differently for left-handed and right-handed musicians?
+ 
+ A: Saxophone
+ B: Clarinet
+ C: Guitar
+ D: Trumpet
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+        "
+		answer="c"
+		/>
+  	<question 
+		desc="orbicularis oculi"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ A person contracts the orbicularis oculi muscle in order to do what?
+ 
+ A: Nod
+ B: Pout
+ C: Wink
+ D: Yawn
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+        "
+		answer="c"
+		/>
+  	<question 
+		desc="Perimeter"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ When their perimeters are of equal length, which of these shapes always has the largest area?
+ 
+ A: Square
+ B: Triange
+ C: Circle
+ D: Hexagon
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+        "
+		answer="c"
+		/>
+  	<question 
+		desc="Reagan Shot"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 1981, President Reagan was shot minutes after delivering an address to members of what well-known organization?
+ 
+ A: NOW
+ B: AARP
+ C: NAACP
+ D: AFL-CIO
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+        "
+		answer="d"
+		/>
+
+  	<question 
+		desc="Easy Peasy"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ &quot;Easy peasy&quot; and &quot;lovely jubbly&quot; are some of the colorful expressions favored by what celebrity chef? 
+ 
+ A: Rachael Ray
+ B: Jamie Oliver
+ C: Bobby Flay
+ D: Mario Batali
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+         "
+		answer="a"
+		/>
+  	<question 
+		desc="Puff Diddy"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, rap impresario Sean &quot;P. Diddy&quot; Combs changed his name once again, this time whittling it down to what?
+ 
+ A: Sean
+ B: P.
+ C: Diddy
+ D: Combs
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+          "
+		answer="c"
+		/>
+  	<question 
+		desc="Federal Gold"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ The largest known depository of gold in the world is a Federal Reserve Bank located in what U.S. city?
+ 
+ A: Philadelphia
+ B: Denver
+ C: New York City
+ D: San Francisco
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+           "
+		answer="c"
+		/>
+  	<question 
+		desc="Pain Perdu"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ &quot;Pain perdu&quot; is the French term for what food?
+ 
+ A: French dressing
+ B: French fries
+ C: French toast
+ D: French dip
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="c"
+		/>
+  	<question 
+		desc="Book of the X"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Founded in 1926, what is the name of America's oldest discount mail-order bookseller?
+ 
+ A: Book-of-the-Day Club
+ B: Book-of-the-Week Club
+ C: Book-of-the-Month Club
+ D: Book-of-the-Year Club
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="c"
+		/>
+  	<question 
+		desc="My T Miss Issip"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ The Mississippi River is located entirely in what time zone?
+ 
+ A: Eastern
+ B: Central
+ C: Mountain
+ D: Pacific
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+              "
+		answer="b"
+		/>
+  	<question 
+		desc="Creamy Center"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In physics, the point at which an object can be balanced is called its &quot;center of&quot; what?
+ 
+ A: Energy
+ B: Direction
+ C: Friction
+ D: Gravity
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="d"
+		/>
+
+
+  	<question 
+		desc="Elvis' 1st Job"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ At the time he was &quot;discovered&quot; by music executives in 1954, Elvis Presley was working as a what?
+
+ A: Janitor
+ B: Truck driver
+ C: Short-order cook
+ D: Longshoreman
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="b"
+		/>
+  	<question 
+		desc="Mega Savant"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ Autistic &quot;mega-savant&quot; Kim Peek was the main inspiration for what popular movie?
+
+ A: Forrest Gump
+ B: A Beautiful Mind
+ C: Shine
+ D: Rain Man
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="d"
+		/>
+  	<question 
+		desc="If I ran the..."
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ Little Morris McGurk lets his imagination run wild in a Dr. Seuss classic titled &quot;If I Ran the&quot; what?
+
+ A: Swimming Pool
+ B: Carousel
+ C: Playground
+ D: Circus
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="d"
+		/>
+  	<question 
+		desc="Sea Level"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ Because it lies mostly at or below sea level, which of these European nations is identified as one of the &quot;Low Countries&quot;?
+
+ A: Portugal
+ B: Belgium
+ C: Italy
+ D: Sweden
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="b"
+		/>
+  	<question 
+		desc="Ex Producers"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ Stars of the hit musical &quot;The Producers,&quot; Matthew Broderick and Nathan Lane returned to Broadway in 2005 in what show?
+
+ A: Dirty Rotten Scoundrels
+ B: Waiting for Godot
+ C: La Cage aux Folles
+ D: The Odd Couple
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="d"
+		/>
+  	<question 
+		desc="Inedible tree fruit"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ Due to the presence of a bitter chemical, which of the following are inedible when picked straight from the tree?
+
+ A: Dates
+ B: Walnuts
+ C: Figs
+ D: Olives
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="d"
+		/>
+  	<question 
+		desc="Bodele Depression"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+Thought to be the world's largest single source of dust, the Bodele Depression is located in what country?
+
+A: Saudi Arabia
+B: Mongolia
+C: Chad
+D: Austrailia
+
+               "
+		answer="c"
+		/>
+  	<question 
+		desc="Colorado River"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these natural wonders is believed to have been formed over millions of years by the Colorado River?
+ 
+ A: Grand Canyon
+ B: San Andreas Fault
+ C: Carlsbad Caverns
+ D: Death Valley
+ 
+ Answer by typing the letter ONLY.  Please answer right away. 
+                "
+		answer="a"
+		/>
+  	<question 
+		desc="Lost Dog"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ On the TV show &quot;Lost,&quot; the castaways include a lottery winner, a rock star, a fugitive and a dog named what?
+ 
+ A: Monty
+ B: Vincent
+ C: Rufus
+ D: Max
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                 "
+		answer="b"
+		/>
+  	<question 
+		desc="O Joy"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Featured on a nickel newly issued in 2005, &quot;Ocean in view! O! The joy!&quot; is a quote from what explorer's journal?
+ 
+ A: James Cook
+ B: Henry Hudson
+ C: William Clark
+ D: Walter Raleigh
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                 "
+		answer="c"
+		/>
+  	<question 
+		desc="Money Laundering Republican"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, what powerful Republican was indicted on criminal charges of money laundering and conspiracy?
+ 
+ A: Tom DeLay
+ B: Dennis Hastert
+ C: Bill Frist
+ D: Trent Lott
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                 "
+		answer="a"
+		/>
+  	<question 
+		desc="On top of spaghetti"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the folk song &quot;On Top of Old Smoky,&quot; the singer laments the loss of his what?
+ 
+ A: Way home
+ B: Fair steed
+ C: Bag of gold
+ D: True lover
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                  "
+		answer="d"
+		/>
+  	<question 
+		desc="curiously strong gum"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2003, what brand of breath mints introduced a gum marketed as &quot;the curiously strong gum&quot;?
+ 
+ A: Certs
+ B: Tic Tacs
+ C: Altoids
+ D: Breath Savers
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                   "
+		answer="c"
+		/>
+  	<question 
+		desc="sudoku girls"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Becoming a worldwide sensation in 2005, sudoku is a puzzle that involves arranging what in a grid?
+ 
+ A: Shapes
+ B: Letters
+ C: Colors
+ D: Numbers
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                    "
+		answer="d"
+		/>
+
+
+  	<question 
+		desc="e street radio"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Launched in 2005, E Street Radio is a satellite radio station devoted entirely to the music of what performer?
+ 
+ A: Bruce Springsteen
+ B: Elton John
+ C: Michael Jackson
+ D: Bob Dylan
+ 
+ Answer by typing the letter ONLY.  Please answer right away.
+                     "
+		answer="a"
+		/>
+  	<question 
+		desc="encephalitis"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Often spread by mosquitoes, encephalitis is a dangerous disease characterized by the inflammation of what organ?
+ 
+ A: Stomach
+ B: Liver
+ C: Heart
+ D: Brain
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                      "
+		answer="d"
+		/>
+  	<question 
+		desc="cruciferous"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Due to its cross-shaped flower petals, which of these healthy veggies is classified as a &quot;cruciferous&quot; vegetable?
+ 
+ A: Onion
+ B: Broccoli
+ C: Beet
+ D: Carrot
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                       "
+		answer="b"
+		/>
+  	<question 
+		desc="no substitute"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What luxury brand's long-running slogan claims &quot;There is no substitute&quot;?
+ 
+ A: Porsche
+ B: Rolex
+ C: Gucci
+ D: Godiva
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                        "
+		answer="a"
+		/>
+  	<question 
+		desc="odie lay"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Known for his slow wit and upbeat demeanor, Odie is the canine sidekick in what popular comic strip?
+ 
+ A: Garfield
+ B: Dilbert
+ C: Blondie
+ D: Ziggy
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                         "
+		answer="a"
+		/>
+  	<question 
+		desc="living document"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Because its meaning can evolve over time, what historic text is often referred to as a &quot;living document&quot;?
+ 
+ A: Mayflower Compact
+ B: U.S. Constitution
+ C: The Federalist Papers
+ D: Emancipation Proclamation
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                          "
+		answer="b"
+		/>
+  	<question 
+		desc="L.E.C."
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What world leader's office has the Web site address &quot;www.elysee.fr &quot;?
+ 
+ A: Vladimir Putin
+ B: Vicente Fox
+ C: Jacques Chirac
+ D: Ariel Sharon
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                           "
+		answer="c"
+		/>
+	<question 
+		desc="first nuclear reactor"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help. 
+
+The world's first nuclear reactor was built in 1942 in what unusual location on the University of Chicago campus?
+
+A: Chapel Basement
+B: Frat house dining hall
+C: Ice rink
+D: Squash court
+
+ Answer by typing the letter ONLY.  Please answer right away.
+ "
+		answer="d"
+		/>
+	<question 
+		desc="westminster dog show"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help. 
+
+What breed of dog has won Best in Show at the Westminster Kennel Club Dog Show a record 13 times?
+
+A: Airedale terrier
+B: Wire fox terrier
+C: Scottish terrier
+D: Yorkshire terrier
+
+ Answer by typing the letter ONLY.  Please answer right away.
+ "
+		answer="b"
+		/>
+
+	<question 
+		desc="morrie"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ According to the title of his best-selling book, Mitch Albom spent what days of the week with his mentor, Morrie Schwartz? 
+ 
+ A: Tuesdays
+ B: Wednesdays
+ C: Fridays
+ D: Sundays
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+  "
+		answer="a"
+		/>
+	<question 
+		desc="Mather Yavapai"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Mather Point and Yavapai Point are two of the most popular overlooks at what U.S. tourist spot?
+ 
+ A: Yellowstone
+ B: Death Valley
+ C: Grand Canyon
+ D: Mount McKinley
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+   "
+		answer="c"
+		/>
+	<question 
+		desc="Band-Aid"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What hip-hop star used to wear a Band-Aid on his cheek to show solidarity with his incarcerated brother?
+ 
+ A: 50 Cent
+ B: Ludacris
+ C: Nelly
+ D: Jay-Z
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+    "
+		answer="c"
+		/>
+	<question 
+		desc="Canola"
+		text="
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Originally made in Canada, canola is a vegetable oil made from what crop?
+ 
+ A: Linseed
+ B: Buckwheat
+ C: Rapeseed
+ D: Groundnut
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+     "
+		answer="c"
+		/>
+-->
+<!--
+	<question 
+		desc="Dies Lunae"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What day of the week is referred to as &quot;Dies lunae&quot; in Latin?
+ 
+ A: Monday
+ B: Tuesday
+ C: Wednesday
+ D: Thursday
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+      "
+		answer="a"
+		/>
+	<question 
+		desc="Survivor: Vanuatu"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2004, what TV host confirmed rumors that he was dating Julie Berry, a contestant he met on &quot;Survivor: Vanuatu&quot;?
+ 
+ A: Phil Keoghan
+ B: Ryan Seacrest
+ C: Jeff Probst
+ D: Ty Pennington
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+       "
+		answer="c"
+		/>
+	<question 
+		desc="Chunks"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these games is traditionally played with tiles that have Chinese characters on them?
+ 
+ A: Backgammon
+ B: Parcheesi
+ C: Cribbage
+ D: Mah-jongg
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+        "
+		answer="d"
+		/>
+	<question 
+		desc="Space Shuttle 2k5"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ A two-year hiatus in the space shuttle program ended with what shuttle's successful launch in July 2005?
+ 
+ A: Enterprise
+ B: Endeavor
+ C: Atlantis
+ D: Discovery
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+         "
+		answer="d"
+		/>
+	<question 
+		desc="Alternating Lead Actors"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, what TV drama adopted an unusual format in which two sets of lead actors alternate from one episode to the next?
+ 
+ A: Cold Case
+ B: Law &amp; Order: Criminal Intent
+ C: CSI: Miami
+ D: Without a Trace
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+         "
+		answer="b"
+		/>
+	<question 
+		desc="I Do Declare"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these sitcom titles is an example of a declarative sentence?
+ 
+ A: Who's the Boss?
+ B: Everybody Loves Raymond
+ C: Curb Your Enthusiasm
+ D: Malcolm in the Middle
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+         "
+		answer="b"
+		/>
+	<question 
+		desc="Striped Peanuts"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the &quot;Peanuts&quot; comic strip, what character usually wears a shirt with vertical stripes on it?
+ 
+ A: Linus
+ B: Schroeder
+ C: Peppermint Patty
+ D: Sally
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+          "
+		answer="c"
+		/>
+	<question 
+		desc="Pope John Paul II"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Before he took the name Pope John Paul II, Karol Wojtyla was the archbishop of what European city?
+ 
+ A: Milan, Italy
+ B: Munich, Germany
+ C: Salzburg, Austria
+ D: Krakï¿½w, Poland
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+          "
+		answer="d"
+		/>
+	<question 
+		desc="Bush is a Flake"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2004, President Bush released payroll records of his service in what state's National Guard?
+ 
+ A: Alabama
+ B: Connecticut
+ C: South Carolina
+ D: Arkansas
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+           "
+		answer="a"
+		/>
+	<question 
+		desc="Nein the Musical!"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Revived on Broadway in 2003, the Tony-winning musical &quot;Nine&quot; was based on what numerically-titled film?
+ 
+ A: Butterfield 8
+ B: 8 1/2
+ C: 9 1/2 Weeks
+ D: 10
+            "
+		answer="b"
+		/>
+	<question 
+		desc="DASH Diet!"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Endorsed by the National Institute of Health, the DASH diet is specially designed for people with what condition?
+ 
+ A: Wheat allergies
+ B: Low blood sugar
+ C: Diabetes
+ D: High blood pressure
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="d"
+		/>
+	<question 
+		desc="Dr. Mc Nutty"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What TV series features a handsome physician whom the interns have nicknamed &quot;Dr. McDreamy&quot;?
+ 
+ A: Nip/Tuck
+ B: Grey's Anatomy
+ C: House
+ D: ER
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="b"
+		/>
+	<question 
+		desc="Sports Strike 2005"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In October 2005, what pro sport resumed action after its previous season was cancelled due to a labor dispute?
+ 
+ A: Basketball
+ B: Football
+ C: Hockey
+ D: Tennis
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="c"
+		/>
+	<question 
+		desc="See Jane Schlep"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ The lines &quot;See Jane schlep. Schlep, Jane. Schlep&quot; are from a 2004 humor book titled what?
+ 
+ A: Dutch with Dick and Jane
+ B: French with Dick and Jane
+ C: Yiddish with Dick and Jane
+ D: Greek with Dick and Jane
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="c"
+		/>
+	<question 
+		desc="Castro Street"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Named after one of its main streets, the Castro is a historic neighborhood in what U.S. city?
+ 
+ A: Washington, D.C.
+ B: Chicago
+ C: Boston
+ D: San Francisco
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="d"
+		/>
+	<question 
+		desc="Burn Baby Burn"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What classic novel begins with the line &quot;It was a pleasure to burn&quot;?
+ 
+ A: The Great Gatsby
+ B: Fahrenheit 451
+ C: Pride and Prejudice
+ D: Invisible Man
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="b"
+		/>
+	<question 
+		desc="Deep Impact"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In 2005, NASA's Deep Impact probe lived up to its name when it deliberately crashed into what celestial object?
+ 
+ A: An asteroid
+ B: The moon
+ C: Mercury
+ D: A comet
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="d"
+		/>
+	<question 
+		desc="All day I dream about sex"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In an effort to compete with rival shoe giant Nike, Adidas announced a takeover of what company in 2005?
+ 
+ A: Reebok
+ B: Puma
+ C: Converse
+ D: New Balance
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="a"
+		/>
+	<question 
+		desc="Sleeveless garment"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ By definition, which of these women's garments is sleeveless?
+ 
+ A: Blazer
+ B: Camisole
+ C: Blouse
+ D: Turtleneck
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+            "
+		answer="b"
+		/>
+	<question 
+		desc="Quads"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What classic rock opera is based on a 1964 clash between two British gangs named the Mods and the Rockers?
+ 
+ A: Hair
+ B: Tommy
+ C: The Wall
+ D: Quadrophenia
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="d"
+		/>
+	<question 
+		desc="Beyoncï¿½ = Beyonce Harajuku Lovers"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Named for a trendy neighborhood in Japan, &quot;Harajuku Lovers&quot; is a fashion line launched in 2005 by what singer?
+ 
+ A: Beyoncï¿½
+ B: Madonna
+ C: Gwen Stefani
+ D: Jennifer Lopez
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="c"
+		/>
+-->
+<!--
+	<question 
+		desc="Insect secretions"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ The food &quot;Royal Jelly&quot; is made from the secretions of what insect?
+
+ A: Bee
+ B: Silkworm
+ C: Cochroach
+ D: Ant
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="a"
+		/>
+	<question 
+		desc="NCIS"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ What does the &quot;N&quot; stand for in the CBS hit drama &quot;NCIS&quot;?
+
+ A: Negative
+ B: North
+ C: Naval
+ D: Natural
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="c"
+		/>
+	<question 
+		desc="Workers of all lands untie"
+		text="
+ Hi!  A contestant is in the hot seat and needs your help.
+
+ Located in a London cemetery, what historic man's tombstone reads &quot;Workers of All Lands Unite&quot;?
+
+ A: Isaac Newton
+ B: Charles Darwin
+ C: Karl Marx
+ D: Winston Churchill
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="c"
+		/>
+	<question 
+		desc="Rather Dumb"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ In March 2005, what veteran newsman replaced Dan Rather as anchor of &quot;The CBS Evening News&quot;?
+
+ A: Scott Pelley
+ B: Harry Smith
+ C: Bob Schieffer
+ D: John Roberts
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="c"
+		/>
+	<question 
+		desc="East and West Coast Live TV"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ What sitcom's 2005 premiere consisted of two live performances, one for the East Coast and one for the West?
+
+ A: According to Jim
+ B: Will &amp; Grace
+ C: Two and a Half Men
+ D: Scrubs
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="b"
+		/>
+	<question 
+		desc="Aussie, Aussie, Aussie"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ To show national pride, Australian sports fans greet the chant &quot;Aussie, Aussie, Aussie&quot; with what rousing response?
+
+ A: Yip, yip, yip!
+ B: Baa, baa, baa!
+ C: Ho, ho ho!
+ D: Oi, oi, oi!
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="d"
+		/>
+	<question 
+		desc="Tablature"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ Tablature is a system of notation commonly used to teach someone to do which of the following?
+
+ B: Play a guitar
+ C: Draft blueprints
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="b"
+		/>
+	<question 
+		desc="Where everybody knows your name"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ &quot;What is ... Cliff Clavin?&quot; is the title of a classic &quot;Cheers&quot; episode in which Cliff appears on what TV show?
+
+ A: The Price is Right!
+ B: The People's Court
+ C: Jeopardy!
+ D: Love Connection
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="c"
+		/>
+	<question 
+		desc="Get your ass to mars"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ Due to its red, bloodlike color, the planet Mars was named after the Roman God of what?
+
+ A: Wisdom
+ B: Sea
+ C: Wind
+ D: War
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="d"
+		/>
+	<question 
+		desc="Cafï¿½ 42 = Cafe 42"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ Because he was the 42nd U.S. president, whose presidential library features an eatery named Cafï¿½ 42?
+
+ A: Jimmy Carter
+ B: Ronald Reagan
+ C: George H.W. Bush
+ D: Bill Clinton
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="d"
+		/>
+	<question 
+		desc="Domestic Diva"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ Because she plays a domestic diva on TV, what star appeared on the premiere of Martha Stewart's talk show?
+
+ A: Lisa Kudrow
+ B: Marcia Cross
+ C: Jane Kaczmarek
+ D: Kelly Ripa
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="b"
+		/>
+	<question 
+		desc="In Flanders Fields Forever"
+		text="
+
+Hi!  A contestant is in the hot seat and needs your help.
+
+ Featured in the memorial poem &quot;In Flanders Fields,&quot; what flowers are commonly associated with war veterans?
+
+ A: Poppies
+ B: Lilies
+ C: Daffodils
+ D: Petunias
+
+ Answer by typing the letter ONLY.  Please answer right away.   
+
+             "
+		answer="a"
+		/>
+	<question 
+		desc="Pope John Paul II"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Before he took the name Pope John Paul II, Karol Wojtyla was the archbishop of what European city?
+ 
+ A: Milan, Italy
+ B: Munich, Germany
+ C: Salzburg, Austria
+ D: Krakï¿½w, Poland
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+          "
+		answer="d"
+		/>
+	<question 
+		desc="Beyoncï¿½ = Beyonce Harajuku Lovers"
+		text="
+ 
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Named for a trendy neighborhood in Japan, &quot;Harajuku Lovers&quot; is a fashion line launched in 2005 by what singer?
+ 
+ A: Beyoncï¿½
+ B: Madonna
+ C: Gwen Stefani
+ D: Jennifer Lopez
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+             "
+		answer="c"
+		/>
+-->
+	<question 
+		desc="Lemony Snicket"
+		prize="4000"
+		text="	
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ The 2004 movie &quot;Lemony Snicket's A Series of Unfortunate Events&quot; stars an evil guardian named what?
+ 
+ A: Count Olaf
+ B: Prince Gustav
+ C: Baron Van Klapp
+ D: Lord Ivan
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+              "
+		answer="a"
+		/>
+	<question 
+		desc="Paleolithic Mesolithic Neolithic"
+		prize="16000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What historic age is commonly divided into three periods: the Paleolithic, the Mesolithic and the Neolithic?
+ 
+ A: Ice Age
+ B: Bronze Age
+ C: Iron Age
+ D: Stone Age
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+               "
+		answer="d"
+		/>
+	<question 
+		desc="OxyContin"
+		prize="2000"
+		text="	
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Often in the news, OxyContin is a highly addictive drug that is usually prescribed as a what?
+ 
+ A: Appetite suppressant
+ B: Pain reliever
+ C: Antidepressant
+ D: Sleep aid
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                "
+		answer="b"
+		/>
+	<question 
+		desc="Nick and Jessie"
+		prize="1000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Nick Lachey and Jessica Simpson appeared on the Oct. 17th, 2005 issue of US Weekly along with what headline?
+ 
+ A: Rehab!
+ B: Broke!
+ C: Preggers!
+ D: Split!
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                 "
+		answer="d"
+		/>
+	<question 
+		desc="Lemur"
+		prize="25000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What actor and ardent lemur supporter had a new species of the animal named in his honor in 2005?
+ 
+ A: Liam Neeson
+ B: Kenneth Branagh
+ C: Tim Curry
+ D: John Cleese
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                  "
+		answer="d"
+		/>
+	<question 
+		desc="HGTV"
+		prize="2000"
+		text="	
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ What does the &quot;HG&quot; stand for in the name of the cable network HGTV?
+ 
+ A: Hobbies and games
+ B: Hope and glory
+ C: Home and garden
+ D: History and geography
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                   "
+		answer="c"
+		/>
+	<question 
+		desc="Clean Sports Act"
+		prize="2000"
+		text="	
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Introduced by Senator John McCain, the Clean Sports Act of 2005 aims to tackle what pro sports problem?
+ 
+ A: Illegal betting
+ B: Steroid use
+ C: Players' strikes
+ D: Improper recruiting
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                    "
+		answer="b"
+		/>
+	<question 
+		desc="Grizzle"
+		prize="4000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Although it has been extinct in the area for many decades, what U.S. state's flag features the grizzly bear?
+ 
+ A: Montana
+ B: Utah
+ C: Texas
+ D: California
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                     "
+		answer="d"
+		/>
+	<question 
+		desc="Philibustabusta"
+		prize="50000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Speaking for over 24 hours against a famous civil rights bill, who holds the record for the longest speech in Senate history?
+ 
+ A: Orrin Hatch
+ B: Barry Goldwater
+ C: Strom Thurmond
+ D: Jesse Helms
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                      "
+		answer="b"
+		/>
+	<question 
+		desc="M. Night"
+		prize="200"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Posters for what M. Night Shyamalan movie depict a boy under the words &quot;sight,&quot; &quot;sound,&quot; &quot;smell,&quot; &quot;taste&quot; and &quot;touch&quot;?
+ 
+ A: The Village
+ B: Unbreakable
+ C: The Sixth Sense
+ D: Signs
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                       "
+		answer="c"
+		/>
+	<question 
+		desc="Diner"
+		prize="100000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the 1982 film &quot;Diner,&quot; one supporting character compulsively quotes lines from what classic movie?
+ 
+ A: From Here to Eternity
+ B: The Seven Year Itch
+ C: On the Waterfront
+ D: Sweet Smell of Success
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                        "
+		answer="d"
+		/>
+	<question 
+		desc="Ralphie X-Mas Story"
+		prize="4000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In this scene from &quot;A Christmas Story,&quot; Ralphie uses his prized decoder pin to decipher the line &quot;Be sure to&quot; what?
+ 
+ A: Eat your Wheaties
+ B: Clean with Ivory Soap
+ C: Drink your Ovaltine
+ D: Brush with Colgate
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                         "
+		answer="c"
+		/>
+	<question 
+		desc="Corn Nuts!"
+		prize="8000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In the 1989 movie &quot;Heathers,&quot; the trend-setting Heathers spend much of their time playing which of these games?
+ 
+ A: Croquet
+ B: Field hockey
+ C: Horseshoes
+ D: Tennis
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                          "
+		answer="a"
+		/>
+	<question 
+		desc="2k1 Space Odyssey"
+		prize="2000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ In a famous scene from &quot;2001: A Space Odyssey,&quot; a shot of what airborne object segues into a shot of a spacecraft?
+ 
+ A: Bone
+ B: Shooting star
+ C: Spear
+ D: Coin
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                           "
+		answer="a"
+		/>
+	<question 
+		desc="Moulon Rouge"
+		prize="25000"
+		text="	
+
+ Hi!  A contestant is in the hot seat and needs your help.
+ 
+ Which of these pop songs does not make an anachronistic appearance in the 2001 movie musical &quot;Moulin Rouge&quot;?
+ 
+ A: Let's Go Crazy
+ B: Smells Like Teen Spirit
+ C: Roxanne
+ D: Like a Virgin
+ 
+ Answer by typing the letter ONLY.  Please answer right away.   
+                            "
+		answer="a"
+		/>
+</questionList>
